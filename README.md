@@ -8,8 +8,10 @@ endpoints) extracted from the microapp bundle.
 
 This automated approach provides:
 
--  standardisation of documentation across integrations
--  time saving by creating the boiler plate structure for you
+-  Standardisation of documentation across integrations
+-  Time saving by creating the boiler plate structure for you
+
+See this [ServiceNow documentation](https://docs.citrix.com/en-us/citrix-microapps/downloads/servicenow-http-connector-specifications.html) for an example of documentation written using this script:
 
 # How to generate document templates
 
